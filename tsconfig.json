@@ -1,0 +1,17 @@
+{
+  "_comment": "AccuBooks Pro 2025 - TypeScript Configuration | Created by: Abdelrahman Adel Alazab | Email: abdelrahmanalazab4@gmail.com | © 2025 AccuBooks Pro - All Rights Reserved",
+  "files": [],
+  "references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "noImplicitAny": false,
+    "noUnusedParameters": false,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "noUnusedLocals": false,
+    "strictNullChecks": false
+  }
+}
