@@ -1,7 +1,12 @@
 # AccuBooks Pro 2025 - Professional Accounting Management System
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aboazab1/accubooks-pro-2025)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aboazab1/accubooks-pro-2025)
+
 **Created by:** Abdelrahman Adel Alazab  
 **Full Stack Developer** | Riyadh, Saudi Arabia
+
+> **📦 Repository:** [https://github.com/aboazab1/accubooks-pro-2025](https://github.com/aboazab1/accubooks-pro-2025)
 
 ## 🎯 **What This Application Does**
 
